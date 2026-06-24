@@ -1,3 +1,19 @@
+# ⚠️ Outdated
+
+This mod is **no longer maintained or updated**.
+Development and support have been permanently discontinued, and no further updates will be provided.
+
+The repository will be **archived** and set to read-only for historical reference only.
+
+Feel free to fork the project if you want to continue development on your own.
+
+**Thanks to everyone who used it.**
+
+
+------------
+
+
+
 # Approximately Up MOD
 
 > **Current version: v2.4.0** — tested against game build [34326956](https://steamdb.info/app/4396220/history/?changeid=34252973) 10.03.2026
@@ -152,12 +168,3 @@ dotnet msbuild .\ApproximatelyUpMOD.csproj /t:Build /p:Configuration=Release `
 ```
 
 Output DLL: `bin/Release/ApproximatelyUpMOD.dll`
-<<<<<<< HEAD
-
-
-
-=======
->>>>>>> 6efaa5a (Wireless transmitter: auto-shrink font for 3- and 4-digit channel numbers via CRPText3D._maxWidth)
-
-
-
